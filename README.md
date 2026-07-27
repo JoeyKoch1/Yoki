@@ -17,7 +17,7 @@ Yoki is a C++ library for interacting with the Counter-Strike 2 process. It prov
 - Windows 10 or Windows 11
 - C++17 or later
 - CMake 3.20 or later
-- A current Counter-Strike 2 offset dump such as `cs2-dumper`
+- A current Counter-Strike 2 offset dump such as [`cs2-dumper`](https://github.com/a2x/cs2-dumper)
 
 ## Building
 
